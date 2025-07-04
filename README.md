@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/syedajmal29" target="blank"><img src="https://img.shields.io/twitter/follow/syedajmal29?logo=twitter&style=for-the-badge" alt="syedajmal29" /></a> </p>
 
-- 🔭 I’m currently working on **AWS, Docker**
+- 🔭 I’m currently working on **DJANGO, Docker**
 
 - 👨‍💻 All of my projects are available at [https://mohammed-syed-ajmal-portfolio.netlify.app/](https://mohammed-syed-ajmal-portfolio.netlify.app/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN** **Django**
 
 - 📫 How to reach me **syedaju398@gmail.com**
 
